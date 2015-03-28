@@ -15,7 +15,10 @@ public class Proyecto2 {
 	public static void main(String[] args) throws FileNotFoundException {
 	//	long TInicio, TFin, tiempo; //Variables para determinar el tiempo de ejecucion
 		//		 TInicio = System.currentTimeMillis();
-				
+			
+		
+		//prueba github
+		
 				Scanner scan;
 				File f = new File("prueba_1.in");
 				if(f.exists()){

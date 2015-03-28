@@ -17,7 +17,7 @@ public class Proyecto2 {
 		//		 TInicio = System.currentTimeMillis();
 			
 		
-		//prueba github
+		//prueba github ppppp
 		
 				Scanner scan;
 				File f = new File("prueba_1.in");

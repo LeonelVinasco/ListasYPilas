@@ -1,0 +1,37 @@
+3
+11
+add 1 0
+add 2 0
+add 3 0
+view
+sub 1
+view
+add 3 2
+add 4 3
+view
+sub 3
+view
+2
+add 1 0
+view
+20
+add 1 0
+add 2 1
+add 3 2
+view
+sub 1
+view
+add 3 3
+add 4 4
+view
+sub 3
+view
+add 1000 0
+add 2000 0
+add 50000 0
+view
+sub 10000
+view
+add 3 0
+add 4 0
+view

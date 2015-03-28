@@ -1,0 +1,13 @@
+VISIT http://www.gmail.com
+VISIT http://www.hotmail.com
+BACK
+BACK
+BACK
+FORWARD
+VISIT http://sites.google.com
+BACK
+BACK
+FORWARD
+FORWARD
+FORWARD
+QUIT

@@ -13,8 +13,8 @@ public class Proyecto2 {
 	 * @param args
 	 */
 	public static void main(String[] args) throws FileNotFoundException {
-		long TInicio, TFin, tiempo; //Variables para determinar el tiempo de ejecucion
-				 TInicio = System.currentTimeMillis();
+	//	long TInicio, TFin, tiempo; //Variables para determinar el tiempo de ejecucion
+		//		 TInicio = System.currentTimeMillis();
 				
 				Scanner scan;
 				File f = new File("prueba_1.in");
@@ -208,9 +208,9 @@ public class Proyecto2 {
 
 				}
 				
-				TFin = System.currentTimeMillis(); //Tomamos la hora en que finalizo el algoritmo y la almacenamos en la variable T
-				  tiempo = TFin - TInicio; //Calculamos los milisegundos de diferencia
-				  System.out.println("Tiempo de ejecucion en milisegundos: " + tiempo);	
+				//TFin = System.currentTimeMillis(); //Tomamos la hora en que finalizo el algoritmo y la almacenamos en la variable T
+				//  tiempo = TFin - TInicio; //Calculamos los milisegundos de diferencia
+				 // System.out.println("Tiempo de ejecucion en milisegundos: " + tiempo);	
 
 	}
 	
